@@ -2,6 +2,9 @@
 
 The **Sapphire-3Trident** is a CoreXY 3D printer modification developed by **BCDesign3D**, designed to upgrade the Sapphire-3 platform with a triple Z-drive system and many proven mechanical features inspired by the original [Voron Design Trident](https://vorondesign.com/).
 
+👉 The entire Z-axis implementation has been adapted from [Hoeby's Sapphire repository](https://github.com/Hoeby/Sapphire).  
+**Massive thanks and appreciation to Hoeby for the incredible work and effort shared with the community!**
+
 This project blends the compact modularity of the Sapphire Pro SP3 with the precision, reliability, and expandability of the Voron Trident concept — all in an open-source package.
 
 ---
