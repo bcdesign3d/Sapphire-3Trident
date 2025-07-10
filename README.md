@@ -18,10 +18,10 @@ This project blends the compact modularity of the Sapphire Pro SP3 with the prec
   Maintains high-speed, high-accuracy XY motion, optimized for better frame rigidity and belt routing.
 
 - **Open Source & Fully Modular**  
-  All CAD models, STL files, and assembly resources are provided for community use and development.
+  STL files, and assembly resources are provided for community use and development.
 
-- **Drop-In Upgrade for Sapphire‑3**  
-  Designed to work with the existing Sapphire‑3 frame and ecosystem.
+- **Drop-In Upgrade for TwooTrees Sapphire Pro SP3**  
+  Designed to work with the existing Sapphire Pro SP3 frame and ecosystem.
 
 ---
 
