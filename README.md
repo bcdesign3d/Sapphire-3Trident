@@ -1,6 +1,6 @@
-# 💎 Sapphire‑3 Trident
+# 💎 Sapphire PRO SP3 Trident aka Sapphire-3Trident
 
-The **Sapphire‑3 Trident** is a CoreXY 3D printer modification developed by **BCDesign3D**, designed to upgrade the Sapphire-3 platform with a triple Z-drive system and many proven mechanical features inspired by the original [Voron Design Trident](https://vorondesign.com/).
+The **Sapphire-3Trident** is a CoreXY 3D printer modification developed by **BCDesign3D**, designed to upgrade the Sapphire-3 platform with a triple Z-drive system and many proven mechanical features inspired by the original [Voron Design Trident](https://vorondesign.com/).
 
 This project blends the compact modularity of the Sapphire Pro SP3 with the precision, reliability, and expandability of the Voron Trident concept — all in an open-source package.
 
