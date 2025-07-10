@@ -1,22 +1,56 @@
-💎 Sapphire‑3 Trident – Project Overview
-The Sapphire‑3 Trident is a CoreXY 3D printer modification developed by BCDesign3D, designed to bring advanced stability, modularity, and performance to the Sapphire-3 platform. This upgrade incorporates a triple Z-drive motion system and many mechanical improvements inspired by the well-known Voron Trident design.
+# 💎 Sapphire‑3 Trident
 
-Key Features:
+The **Sapphire‑3 Trident** is a CoreXY 3D printer modification developed by **BCDesign3D**, designed to upgrade the Sapphire-3 platform with a triple Z-drive system and many proven mechanical features inspired by the original [Voron Design Trident](https://vorondesign.com/).
 
-Triple Z-Drive System: Provides enhanced stability, especially for taller prints, and helps maintain gantry alignment during motion or power loss.
+This project blends the compact modularity of the Sapphire-3 with the precision, reliability, and expandability of the Voron Trident concept — all in an open-source package.
 
-Voron-Inspired Architecture: Many components and ideas have been adapted from the original Voron Design Trident, including layout concepts, motion mechanics, and structural elements—bridging proven design with custom modularity.
+---
 
-CoreXY Motion: Retains the speed and precision of CoreXY kinematics, optimized with improved frame rigidity and belt routing.
+## 🔧 Key Features
 
-Open-Source & Modular: All CAD files, STLs, and documentation are shared openly, allowing builders to assemble, modify, and further develop the design with ease.
+- **Triple Z-Drive System**  
+  Improved Z-axis stability and auto-alignment for taller prints and power-loss resilience.
 
-Print-Ready Frame: Designed to integrate seamlessly with the Sapphire‑3 structure while introducing performance and maintenance enhancements.
+- **Voron-Inspired Design**  
+  Includes adapted motion components, layout principles, and mechanical concepts from the original Voron Trident.
 
-Why Choose Sapphire‑3 Trident?
+- **CoreXY Kinematics**  
+  Maintains high-speed, high-accuracy XY motion, optimized for better frame rigidity and belt routing.
 
-Offers high precision and durability thanks to the triple Z-drive and Voron-inspired layout.
+- **Open Source & Fully Modular**  
+  All CAD models, STL files, and assembly resources are provided for community use and development.
 
-Upgradable and customizable, making it ideal for hobbyists and advanced users alike.
+- **Drop-In Upgrade for Sapphire‑3**  
+  Designed to work with the existing Sapphire‑3 frame and ecosystem.
 
-Built with a community-driven mindset, encouraging collaboration and future innovation.
+---
+
+## 📂 Repository Contents
+  
+- `/STLs` – Printable parts for the modification   
+- `/Firmware` – Suggested Klipper configurations (optional)
+
+---
+
+## 🚀 Why Choose Sapphire‑3 Trident?
+
+- **Precision + Stability**: Triple Z and rigid CoreXY motion = reliable, high-quality prints.  
+- **Inspired by Proven Engineering**: Based on the field-tested Voron Trident design.  
+- **Customizable + Community Driven**: Fully modifiable and open to contributions.  
+- **Future-Proof**: A solid foundation for further upgrades and automation.
+
+---
+
+## 📢 Acknowledgements
+
+We proudly acknowledge the incredible work of the [Voron Design](https://vorondesign.com/) team. Several elements of this modification were directly inspired by their Trident design, and we’re thankful for their open-source philosophy and engineering excellence.
+
+---
+
+## 📬 Contact
+
+Feel free to open an issue or pull request, or reach out via [github.com/bcdesign3d](https://github.com/bcdesign3d) for suggestions and feedback.
+
+---
+
+> **Designed for Speed. Built for Precision. — BCDesign3D**
